@@ -1,0 +1,65 @@
+body{
+  background-image: url("../img/background.png");
+}
+
+#navFlex{
+  color: black;
+  background-color: rgba(184, 186, 203, 0.5);
+  border: solid;
+  border-color: white;
+  display: flex;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  width: 50%;
+  top: 10%;
+  left: 5%;
+  position: absolute;
+}
+
+nav{
+  background-color: rgba(184, 186, 203, 0.5);
+  border: solid;
+  border-color: white;
+  padding-bottom: 5%;
+}
+
+#navLogo{
+  max-width: 250px;
+  max-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.test{
+  width: 20%;
+  font-size: 20px;
+  overflow: auto;
+}
+
+#ligneFlex{
+  background-color: rgba(184, 186, 203, 0.5);
+  margin-top: 5%;
+  display: block;
+  border: solid;
+  border-color: white;
+
+}
+
+.Flexx{
+  max-width: 200px;
+  max-height: 200px;
+  border-style: solid;
+  border-radius: 2px;
+  border-color: grey;
+  margin-left: 2%;
+  display: inline;
+}
+
+.nomGite{
+  border: dotted;
+  border-color: turquoise;
+  width: 3%;
+  margin-left: 2%;
+}
